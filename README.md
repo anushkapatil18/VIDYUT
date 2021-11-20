@@ -3,6 +3,9 @@
   <img  src="https://user-images.githubusercontent.com/72657551/142737880-806e95d7-3e3e-4ab0-b8a9-ea88f4602ed0.png">
 </p>
 
+##  Link to the Website 
+https://nostalgic-noyce-715a7d.netlify.app/
+
 ## What was your motivation?
 We people waste a lot of energy in our daily usage either by not turning the lights off when not in use or by utilizing old and inefficient appliances that consume large amount of energy or by not switching off the vehicle engine when the light is really long. Energy needs to be conserved not only to cut costs but also to preserve the resources for longer use.
 
