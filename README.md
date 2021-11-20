@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/72657551/142737880-806e95d7-3e3e-4ab0-b8a9-ea88f4602ed0.png)
+
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/72657551/142737880-806e95d7-3e3e-4ab0-b8a9-ea88f4602ed0.png">
+</p>
 
 ## What was your motivation?
 We people waste a lot of energy in our daily usage either by not turning the lights off when not in use or by utilizing old and inefficient appliances that consume large amount of energy or by not switching off the vehicle engine when the light is really long. Energy needs to be conserved not only to cut costs but also to preserve the resources for longer use.
@@ -18,8 +21,8 @@ size of house no of appliances, etc and will give the target to users about the 
 be used every month and if the user is able to achieve their target they will receive incentives.
 
 ## What did you learn?
-There are many ways to conserve energy, introducing you all to this new way made us learn various things.
-The ML model based project helped us to communicate with the users to let them know the exact usage and how to reduce excess energy usage and save money at the same time.
+There are many ways to conserve energy,  In the process of introducing you all to this new way helped us learn various new things ourselves.
+The ML model based project helped us to communicate with the users to help them reduce their excess energy usage and save money at the same time.
 
 ## Built With
 - HTML 5
