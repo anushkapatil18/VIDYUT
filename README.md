@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/72657551/142737880-806e95d7-3e3e-4ab0-b8a9-ea88f4602ed0.png">
+  <img  src="landing page.png">
 </p>
 
 ##  Link to the Website 
@@ -27,16 +27,27 @@ be used every month and if the user is able to achieve their target they will re
 There are many ways to conserve energy,  In the process of introducing you all to this new way helped us learn various new things ourselves.
 The ML model based project helped us to communicate with the users to help them reduce their excess energy usage and save money at the same time.
 
-## Built With
+## Frontend Built With
 - HTML 5
 - CSS
 - JavaScript
 - font: Inter
 - icons: FontAwesome
 
+## Data taken from 
+
+https://www.kaggle.com/gireeshs/household-monthly-electricity-bill
+
+## Machine learning Models used are 
+- Linear Regression
+- Lasso
+- Ridge
+
+## We used Flask for developing web app and deployed our website on netlify 
 
 ## Contributors
 - Anushka Patil
+- Devika Varshney
 - Preeti Kumari
 - Krina Panchal
-- Devika Varshney
+
