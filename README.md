@@ -17,7 +17,7 @@ Resources that are available to us today should be used economically to conserve
 Energy conservation can be as simple as turning off lights or appliances when you do not need them.
 You can also use energy-intensive appliances less by performing household tasks manually, 
 such as hang-drying your clothes instead of putting them in the dryer, or washing dishes by hand.
-So, we came up with a simple solution, our website will take electricity bills as an input and 
+So, we came up with a simple solution, our website will take various factors as input and 
 will give results on the basis of the number of units used per month, 
 we will apply ML model to analyze the data with respect to the user's locality, 
 size of house no of appliances, etc and will give the target to users about the number of units to 
