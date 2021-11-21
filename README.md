@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="landing page.png">
+  <img  src="main.png">
 </p>
 
 ##  Link to the Website 
