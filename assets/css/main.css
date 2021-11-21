@@ -3390,7 +3390,7 @@ form{
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
-		background-image: linear-gradient(to right top, #930bb3, #6d1597, #4b147b, #2d105d, #14083f);
+		background-image: linear-gradient(45deg, #930bb3, #6d1597, #4b147b, #2d105d, #14083f);
 		align-items: center;
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -3632,7 +3632,7 @@ form{
 			border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		}
 		section{
-			background-image: linear-gradient(to right top, #930bb3, #6d1597, #4b147b, #2d105d, #14083f);
+			background-image: linear-gradient(45deg, #930bb3, #6d1597, #4b147b, #2d105d, #14083f);
 		}
 
 /* Contact */
@@ -3923,3 +3923,4 @@ form{
 			opacity: 1;
 			visibility: visible;
 		}
+
