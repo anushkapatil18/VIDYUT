@@ -43,6 +43,12 @@ https://www.kaggle.com/gireeshs/household-monthly-electricity-bill
 - Lasso
 - Ridge
 
+## Tools used are
+- VS code
+- Jupytor Notebook
+- Figma 
+- MS Excel
+
 ## We used Flask for developing web app and deployed our website on netlify 
 
 ## Contributors
