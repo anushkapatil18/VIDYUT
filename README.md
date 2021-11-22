@@ -52,6 +52,10 @@ https://www.kaggle.com/gireeshs/household-monthly-electricity-bill
 
 ## We used Flask for developing web app and deployed our website on netlify 
 
+## PPT Link to get detailed idea for our project
+
+https://www.canva.com/design/DAEwF0vSTWw/share/preview?token=rlHKrr8R4ntGi64q4qAeSw&role=EDITOR&utm_content=DAEwF0vSTWw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
 ## Contributors
 - Anushka Patil
 - Devika Varshney
