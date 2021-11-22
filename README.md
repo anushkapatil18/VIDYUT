@@ -6,6 +6,9 @@
 ##  Link to the Website 
 https://priceless-carson-ea1fc6.netlify.app/
 
+## Electricity Bill Predictor
+![image](https://user-images.githubusercontent.com/72657551/142819636-74b22f61-8a16-4cc9-8e21-d2ac71b5f1ba.png)
+
 ## What was your motivation?
 We people waste a lot of energy in our daily usage either by not turning the lights off when not in use or by utilizing old and inefficient appliances that consume large amount of energy or by not switching off the vehicle engine when the light is really long. Energy needs to be conserved not only to cut costs but also to preserve the resources for longer use.
 
