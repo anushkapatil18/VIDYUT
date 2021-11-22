@@ -185,18 +185,31 @@ form{
 			transition: none !important;
 		}
 
-		.primary{
-			background-color:rgb(182, 176, 176); 
-  border-radius: 8px;
-  box-shadow: 5px 10px;
-  color:#6d1597 ;
-  padding: 15px 32px;
+	.primary{
+		display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+  outline: none;
+  color:purple;
   font-weight: 900;
-		}
+  background-color: rgb(219, 213, 213);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+	}
+
+	.primary:hover {background-color: #7f8180;
+	color:#3e8e41}
+
+.primary:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
 
 		
 /* Type */
