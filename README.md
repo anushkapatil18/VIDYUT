@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/72657551/142737880-806e95d7-3e3e-4ab0-b8a9-ea88f4602ed0.png">
+  <img  src="main.png">
 </p>
 
 ##  Link to the Website 
@@ -17,7 +17,7 @@ Resources that are available to us today should be used economically to conserve
 Energy conservation can be as simple as turning off lights or appliances when you do not need them.
 You can also use energy-intensive appliances less by performing household tasks manually, 
 such as hang-drying your clothes instead of putting them in the dryer, or washing dishes by hand.
-So, we came up with a simple solution, our website will take electricity bills as an input and 
+So, we came up with a simple solution, our website will take various factors as input and 
 will give results on the basis of the number of units used per month, 
 we will apply ML model to analyze the data with respect to the user's locality, 
 size of house no of appliances, etc and will give the target to users about the number of units to 
@@ -27,16 +27,33 @@ be used every month and if the user is able to achieve their target they will re
 There are many ways to conserve energy,  In the process of introducing you all to this new way helped us learn various new things ourselves.
 The ML model based project helped us to communicate with the users to help them reduce their excess energy usage and save money at the same time.
 
-## Built With
+## Frontend Built With
 - HTML 5
 - CSS
 - JavaScript
 - font: Inter
 - icons: FontAwesome
 
+## Data taken from 
+
+https://www.kaggle.com/gireeshs/household-monthly-electricity-bill
+
+## Machine learning Models used are 
+- Linear Regression
+- Lasso
+- Ridge
+
+## Tools used are
+- VS code
+- Jupytor Notebook
+- Figma 
+- MS Excel
+
+## We used Flask for developing web app and deployed our website on netlify 
 
 ## Contributors
 - Anushka Patil
+- Devika Varshney
 - Preeti Kumari
 - Krina Panchal
-- Devika Varshney
+
