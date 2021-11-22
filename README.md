@@ -1,10 +1,11 @@
 
+##  Link to the Website 
+https://priceless-carson-ea1fc6.netlify.app/
+
+
 <p align="center">
   <img  src="main.png">
 </p>
-
-##  Link to the Website 
-https://priceless-carson-ea1fc6.netlify.app/
 
 ## Electricity Bill Predictor
 ![image](https://user-images.githubusercontent.com/72657551/142819636-74b22f61-8a16-4cc9-8e21-d2ac71b5f1ba.png)
