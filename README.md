@@ -7,9 +7,6 @@ https://priceless-carson-ea1fc6.netlify.app/
   <img  src="main.png">
 </p>
 
-## Electricity Bill Predictor
-![image](https://user-images.githubusercontent.com/72657551/142819636-74b22f61-8a16-4cc9-8e21-d2ac71b5f1ba.png)
-
 ## What was your motivation?
 We people waste a lot of energy in our daily usage either by not turning the lights off when not in use or by utilizing old and inefficient appliances that consume large amount of energy or by not switching off the vehicle engine when the light is really long. Energy needs to be conserved not only to cut costs but also to preserve the resources for longer use.
 
@@ -60,4 +57,9 @@ https://www.kaggle.com/gireeshs/household-monthly-electricity-bill
 - Devika Varshney
 - Preeti Kumari
 - Krina Panchal
-
+<img width="948" alt="image" src="https://user-images.githubusercontent.com/84238610/142834908-e82f9c80-2347-41ff-b156-46b6fc5f11de.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/84238610/142835002-cb0c7bbd-6043-4d43-92d4-6b28149e3f50.png">
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/84238610/142834572-5351f1fb-bda1-4fe1-8911-fe70d9fff4d1.png">
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/84238610/142834438-05d24334-204d-4176-bda4-208beb6ef4be.png">
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/84238610/142834499-964cff7a-b31e-4d5e-8bf0-d1ef70f4ae12.png">
+<img width="914" alt="image" src="https://user-images.githubusercontent.com/84238610/142835224-2bcc5c7e-0e75-47b0-85eb-22709d445515.png">
