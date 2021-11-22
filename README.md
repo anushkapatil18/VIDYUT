@@ -57,6 +57,8 @@ https://www.kaggle.com/gireeshs/household-monthly-electricity-bill
 - Devika Varshney
 - Preeti Kumari
 - Krina Panchal
+## Screenshots of our website
+
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/84238610/142834908-e82f9c80-2347-41ff-b156-46b6fc5f11de.png">
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/84238610/142835002-cb0c7bbd-6043-4d43-92d4-6b28149e3f50.png">
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/84238610/142834572-5351f1fb-bda1-4fe1-8911-fe70d9fff4d1.png">
