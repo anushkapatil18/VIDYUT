@@ -185,6 +185,19 @@ form{
 			transition: none !important;
 		}
 
+		.primary{
+			background-color:rgb(182, 176, 176); 
+  border-radius: 8px;
+  box-shadow: 5px 10px;
+  color:#6d1597 ;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 900;
+		}
+
 		
 /* Type */
 
