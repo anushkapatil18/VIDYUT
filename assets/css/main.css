@@ -205,7 +205,7 @@ form{
 	color:#3e8e41}
 
 .primary:active {
-  background-color: #3e8e41;
+  background-color: grey;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
