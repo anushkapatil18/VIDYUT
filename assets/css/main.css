@@ -1,11 +1,73 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
-/*
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+.container {
+	margin: 0 auto;
+	width: 250px;
+	height: 200px;
+	position: relative;
+	perspective: 1000px;
+  }
+  
+  .carousel {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	transform-style: preserve-3d;
+	transition: transform 1s;
+  }
+  
+  .item {
+	display: block;
+	position: absolute;
+	background: #000;
+	width: 100%;
+	height: 90%;
+	line-height: 200px;
+	font-size: 5em;
+	text-align: center;
+	color: #FFF;
+	opacity: 0.95;
+	border-radius: 10px;
+  }
+  
+  .a {
+	transform: rotateY(0deg) translateZ(250px);
+  }
+  .b {
+	transform: rotateY(60deg) translateZ(250px);
+  }
+  .c {
+	transform: rotateY(120deg) translateZ(250px);
+  }
+  .d {
+	transform: rotateY(180deg) translateZ(250px);
+  }
+  .e {
+	transform: rotateY(240deg) translateZ(250px);
+  } 
+  .f {
+	transform: rotateY(300deg) translateZ(250px);
+	background: #8c6239;
+  }
+  
+  .next, .prev {
+	color: #444;
+	position: absolute;
+	padding: 1em 2em;
+	cursor: pointer;
+	background: #CCC;
+	border-radius: 5px;
+	border-top: 1px solid #FFF;
+	box-shadow: 0 5px 0 #999;
+	transition: box-shadow 0.1s, top 0.1s;
+  }
+  .next:hover, .prev:hover { color: #000; }
+  .next:active, .prev:active {
+	box-shadow: 0 1px 0 #999;
+  }
+  .next { right: 5em; }
+  .prev { left: 5em; }
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -3748,8 +3810,8 @@ form{
 			#wrapper {
 				padding-top: 2.75em;
 			}
-
 		}
+
 
 /* Menu */
 
